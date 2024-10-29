@@ -1,3 +1,6 @@
+
+
+
 Name:Shaik Abeed
 Company:CODTECH IT SOLUTIONS
 ID:15102024
@@ -28,3 +31,4 @@ Setosa shows minimal outliers across all features, reflecting its distinctivenes
 Some mild outliers exist within Versicolor and Virginica, particularly in petal width and length, highlighting slight variations within these species.
 Classification Potential:
 Petal measurements appear to be the most distinguishing features for species classification, as shown by their strong separation in scatter plots and high correlation.
+![Screenshot 2024-10-25 114500](https://github.com/user-attachments/assets/2adaff57-9ad6-413f-82e8-418f479becd1)
